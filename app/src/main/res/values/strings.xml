@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tanta.me</string>
+    <string name="address">Tanta is located between Cairo and
+        Alexandria: 94 km (58 mi) north of Cairo and 130 km (81 mi)
+        southeast of Alexandria.</string>
+    <string name="idea">Tanta is a large city in Egypt
+        for that this app will help you to know more about it.</string>
+    <string name="description">Tanta city app will help you to search hotel and book in any hotel you want.
+        also it will help you to know more about tourist areas in tanta.</string>
+</resources>
